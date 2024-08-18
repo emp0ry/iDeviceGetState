@@ -1,4 +1,4 @@
-# iDevice Get Mode
+# Get iDevice State
 idevicegetstate() function giving -1, 0, 1, 2 
 - -1 if iDevice not connected
 - 0 if iDevice in normal mode
